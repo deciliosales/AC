@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=1024"/>
+<meta name="apple-mobile-web-app-capable" content="yes"/>
+<style>
+.superscript {
+    vertical-align:top;
+    font-size:.7em;
+    }
+.subscript {
+    vertical-align:bottom;
+    font-size:.8em;
+    } 
+    p1 {
+    font-size: 42px;
+}
+</style>
+<meta name="citex:site" content="@gendecilio">
+
+<title>Programa Amazônia Conectada</title>
+<meta name="description" content="Encontro de Provedores Norte"/>
+<meta name="author" content="Decílio M Sales"/>
+<link href="css/impress-demo.css" rel="stylesheet"/>
+<link rel="shortcut icon" href="favicon.png"/>
+<link rel="apple-touch-icon" href="apple-touch-icon.png"/>
+
+<link href="css/font-awesome.css" rel="stylesheet"/>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+
+<link href="css/font-awesome-ie7.css" rel="stylesheet"/>
+<link href="css/animate.css" rel="stylesheet"/>
+
+
+<meta name="citex:site" content="@gendecilio">
+<meta property=":account_id" content="0010"/>
+
+</head>
+<body class="impress-not-supported">
+
+<div class="fallback-message">
+<p>Your browser <b>doesn't support the features required</b> by impress.js, so you are presented with a simplified version of this presentation.</p>
+<p>For the best experience please use the latest <b>Chrome</b>, <b>Safari</b> or <b>Firefox</b> browser.</p>
+</div>
+<div class="navegate"><span class="font doodle-nav">navegar</span></div>
+<div id="impress">
+<div class="drop_box">
+<span id="drop_down"> Provedores Regionais</span></div>
+<div id="slogan" class="step" data-x="0" data-y="1000" data-z="-5000" data-rotate="180" data-scale="1">
+
+<p class="font logo"><span class="salmon" style="margin-left:-200px">{</span>Amazônia<span class="salmon">C</span>onectada<span class="salmon">}</span></p>
+<div class="drop_box">
+<span id="drop_down" class="font font-x0 slogan_finish img-routed">Integrando a<span class="dark"> </span>Amazônia</span>
+</div>
+</div>
+
+<div id="what" class="step" data-x="0" data-y="-220000" data-rotate="0" data-scale="100">
+<p class="font font-x2"style="margin-left:-200px"><span class="salmon">{</span>
+<span class="salmon"><i class="fa fa-cog fa-spin margin-bottom"></i></span>
+<span class="salmon">}</span>&nbsp;
+<span class="font title"> O que é o Programa Amazônia Conectada?</span></p>
+</div>
+<div id="what_content" class="step" data-x="-32000" data-y="-500" data-z="0" data-scale="5">
+<p class="text-center"><img src="img/logo-pac.png" height="142" title="Visão Geral"></p>
+<p class="font text-center"><span class="salmon"> <i class="fa fa-hand-o-right" aria-hidden="true"></i>   Programa</span> Amazônia Conectada</p>
+<p class="content-view"> Implementação de um canal robusto de telecomunicações, centrado em um <i>backbone</i> de cabos ópticos subfluviais lançados 
+nos leitos dos afluentes da bacia amazônica, a partir do qual vários serviços serão disponibilizados.</p>
+</div>
+
+<div id="fotos" class="step" data-x="-24000" data-y="-500" data-z="0" data-scale="5">
+<h1 class="font text-center">Infovias</h1>
+<p class="font text-x2"><img src="img/tudo.png" height="600" style="margin-left:-200px"></p>
+
+</div>
+
+<div id="fotos-1" class="step" data-x="-16000" data-y="-500" data-z="0" data-scale="5">
+<h1 class="font text-center">Municípios atendidos</h1>
+<p class="font text-x2"><img src="img/AC_Cidades.jpg" height="600" style="margin-left:-10px"></p>
+
+</div>
+
+
+<div id="fotos-2" class="step" data-x="-9000" data-y="-500" data-z="0" data-scale="5">
+<p class="font text-center" style="margin-left:-40px"><img src="img/feasibility.png" height="120" title="Viabilidade"></p>
+<p class="font text-center"><span class="salmon"> <i class="fa fa-hand-o-right" aria-hidden="true"></i>   Viabilidade</span> do Programa</p>
+
+<ul class="fa-ul" style="margin-left:50px">
+<li><span class="salmon"><i class="fa-li fa fa-connectdevelop" aria-hidden="true"></i></span><p class="font text-x2">Cabo telegráfico lançado no leito do rio Amazonas em 1896</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-weixin" aria-hidden="true"></i></span><p class="font text-x2">Cabo óptico lançado no leito do rio Negro
+conectando duas OM do EB</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-leanpub" aria-hidden="true"></i></span><p class="font text-x2">Estudos técnicos conduzidos pelo IPAAM e pela UEA</p></li>
+
+</ul>
+
+</div>
+
+<div id="troll" class="step" data-x="-2000" data-y="-500" data-z="0" data-scale="5">
+<p class="font text-center"><img src="img/GP-icon.png" height="142"></p>
+<p class="font text-center"><span class="salmon"> <i class="fa fa-hand-o-right" aria-hidden="true"></i>   Componentes</span> do Programa</p>
+
+<ul class="fa-ul" style="margin-left:50px">
+<li><span class="salmon"><i class="fa-li fa fa-shopping-cart" aria-hidden="true"></i></span><p class="font text-x2">Projeto Implantação das Infovias</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-bars" aria-hidden="true"></i></span><p class="font text-x2">Projeto Gestão dos Serviços de TI</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-home" aria-hidden="true"></i></span><p class="font text-x2">Projeto Cadeia de Valor</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-pencil" aria-hidden="true"></i></span><p class="font text-x2">Projeto Políticas Públicas</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-tachometer" aria-hidden="true"></i></span><p class="font text-x2">Projeto Estrutura de Manutenção</p></li>
+
+</ul>
+
+</div>
+
+
+<div id="how" class="step" data-x="-10000" data-y="-30000" data-z="0" data-rotate="0" data-scale="200" data-rotate-x="180">
+<p class="font font-x2" style="margin-left:-200px"><span class="salmon">{</span><span class="salmon"><i class="fa fa-cog fa-spin margin-bottom"></i></span>
+<span class="salmon">}</span>&nbsp;
+<span class="font title"> <span class="flip">Criação do Programa</span></span></p>
+</div>
+<div id="how_content" class="step" data-x="46000" data-y="31000" data-z="0" data-rotate="0" data-scale="20">
+<p class="tittle">Iniciativas <span class="salmon"><i class="icon-group"></i></span></p>
+<p class="content-view">Em novembro de 2014, Exército Brasileiro, Governo do Amazonas, RNP, PRODAM e IPAAM assinaram Memorando de Entendimentos para a criação de um Programa com a meta de levar a banda larga à Amazônia Ocidental.</p>
+</div>
+
+<div class="step" id="imagens-1" data-x="47300" data-y="30850" data-z="0" data-sacle="5" data-rotate-z="30">
+<h1 class="font text-center" style="margin-top:-80px">Memorando de Entendimento - Rio de Janeiro</h1>
+
+    <img src="img/mayer.jpg" width="400" height="250"> <img src="img/nelson.jpg" width="400" height="250">
+    <img src="img/prodam.jpg" width="400" height="250"> <img src="img/ipaam.jpg" width="400" height="250">
+    
+
+  </div>
+  <div class="step" id="imagens-1a" data-x="46500" data-y="30100" data-z="0" data-sacle="5" data-rotate-z="60">
+<h1 class="font text-center" style="margin-top:-80px">Eastern Telegraph Company - 1901</h1>
+
+    <img src="img/1901_telegraph.png" width="800" height="600">
+</div>
+ 
+<div class="step" id="imagens-1b" data-x="46200" data-y="29000" data-z="0" data-sacle="5" data-rotate-z="90">
+<h1 class="font text-center" style="margin-top:-10px;margin-left:-100px">Cabo telegráfico subfluvial Manaus - Belém (1896)</h1>
+
+    <img src="img/ETC.png" width="900" height="500">
+</div>
+
+<div class="step" id="imagens-1c" data-x="46500" data-y="27800" data-z="0" data-sacle="5" data-rotate-z="120">
+<h1 class="font text-center" style="margin-top:-20px;margin-left:-10px">Cabos ópticos transoceânicos</h1>
+
+    <img src="img/cablemap-2015.png" width="900" height="550" style="margin-left:-40px">
+</div>
+
+
+<section class="step container" data-x="10000" data-y="0">
+        <video controls style="margin-top:-60px;margin-left:-240px">
+            <source id="coverVideo" src="img/Animated.mp4" type='video/mp4'/>
+        </video>
+    </section>
+    
+<div class="step" id="imagens-1d" data-x="46500" data-y="27000" data-z="0" data-sacle="5" data-rotate-z="120">
+<h1 class="font text-center" style="margin-top:-20px;margin-left:-10px">País hídrico</h1>
+
+    <img src="img/Tapajosrivermap.png" width="800" height="600" style="margin-left:-40px">
+</div>    
+
+<!--
+<div class="step" id="teste-1" data-x="-5000" data-y="-4230" data-z="-5000" data-rotate-z="30">
+<h1 class="font text-center" style="margin-top:-10px">Cabo telegráfico subfluvial Belém - Manaus (1896)</h1>
+
+    <img src="img/ETC.png" width="900" height="500">
+</div>
+
+<div class="step" id="teste-2" data-x="-4268" data-y="-3500" data-z="-5000" data-rotate-z="60">
+<h1 class="font text-center" style="margin-top:-10px">Cabo telegráfico subfluvial</h1>
+
+    <img src="img/ETC.png" width="900" height="500">
+</div>
+
+<div class="step" id="teste-3" data-x="-4000" data-y="-2500" data-z="-5000" data-rotate-z="90">
+<h1 class="font text-center" style="margin-top:-10px">Cabo telegráfico subfluvial</h1>
+
+    <img src="img/ETC.png" width="900" height="500">
+</div>
+  
+ -->
+  
+<div id="first" class="step" data-x="65000" data-y="41000" data-z="30000" data-scale="10">
+<p class="tittle" style="margin-left:-50px"> Demonstrador de Tecnologias <span class="salmon"><i class="icon-comments"></i></span></p>
+<p class="content-view" style="margin-left:-50px">Em julho de 2015, foi inaugurado o lançamento exitoso de um cabo óptico no leito do rio Negro, com extensão de cerca de 10 km, conectando duas Unidades do Exército. O sistema opera há mais de um ano sem apresentar qualquer problema operacional.</p>
+</div>
+
+<div class="step" id="imagens-2" data-x="49500" data-y="30000" data-z="5" data-sacle="5">
+<h1 class="font text-center" style="margin-top:-100px">Anel óptico - METROMAO</h1>
+
+    <img src="img/piloto_1.png" width="800" height="600"> 
+</div>
+
+<div class="step" id="imagens-3" data-x="51000" data-y="30000" data-z="10" data-sacle="15">
+<h1 class="font text-center" style="margin-top:-200px">Registros</h1>
+
+  <img src="img/nsw.jpg" width="400" height="250"> <img src="img/mbandeira.jpg" width="400" height="250">
+   <img src="img/foto1.jpg" width="400" height="250"> <img src="img/mundopm.jpg" width="400" height="250">
+</div>
+
+<div class="step" id="imagens-4" data-x="52500" data-y="30000" data-z="0" data-sacle="5">
+<h1 class="font text-center" style="margin-top:-120px">Reuniões Técnicas</h1>
+
+    <img src="img/santoro.jpg" width="900" height="550">
+</div>
+
+<div class="step" id="imagens-5" data-x="54000" data-y="30000" data-z="0" data-sacle="5">
+<h1 class="font text-center" style="margin-top:-120px;margin-left:-10px">Capacitação</h1>
+
+    <img src="img/capacitacao.jpg" width="900" height="600" style="margin-left:-30px">
+</div>
+
+
+<div class="step" id="portaria" data-x="55500" data-y="30000" data-z="0" data-sacle="5">
+<h1 class="font font-x0" style="margin-top:-120px">Portaria Interministerial n<span class="superscript">o</span> 586</h1>
+<p><span class="font text-center"><i>Institui o Projeto Amazônia Conectada e dá outras providências.</i></span></p>
+<p> <span span class="font text-center"> Os MINISTROS DE ESTADOS DA DEFESA, DAS COMUNICAÇÕES E DA CIÊNCIA, TECNOLOGIA E INOVAÇÃO, no uso das atribuições que lhes confere o art. 87, parágrafo único, inciso II, da Constituição Federal, resolvem:</span></p>
+    
+</div>
+
+<div class="step" id="portaria-fl" data-x="55500" data-y="30800" data-z="0" data-sacle="5" style="margin-top:-80px">
+<p> <span span class="font text-center"><b> Art. 1<span class="superscript">o</span></b> - Fica instituído o Projeto Amazônia Conectada com o objetivo de expandir a infraestrutura de comunicações e contribuir para as ações do Governo Federal desenvolvidas no âmbito do Programa Nacional de Banda Larga - PNBL na região amazônica. </span></p>
+    
+</div>
+
+
+<div class="step" id="portaria-f2" data-x="55500" data-y="31600" data-z="0" data-sacle="5" style="margin-top:-80px">
+<p> <span span class="font text-center"><b> Art. 4<span class="superscript">o</span></b> - Fica instituído, no âmbito do Comando do Exército, o Comitê Gestor do Projeto Amazônia Conectada, com as seguintes atribuições: </span></p>
+
+<span class="font text-center"><p1> <span class="salmon"><i class="fa fa-bolt" aria-hidden="true"></i></span>
+ <i>&nbsp; estabelecer as diretrizes gerais de gestão dos recursos orçamentários;</i></p1></span></br>
+<span class="salmon"><i class="fa fa-bolt" aria-hidden="true"></i></span><span class="font text-center"><p1><i>&nbsp; propor a política de uso dos serviços a serem implantados pelo agente operador;</i></p1></span></br>
+<span class="salmon"><i class="fa fa-bolt" aria-hidden="true"></i></span><span class="font text-center"><p1><i>&nbsp;articular a adesão de novos parceiros com vistas à ampliação do projeto;</i></p1></span>
+
+</div>
+
+<div id="second" class="step" data-x="75000" data-y="41000" data-z="80000" data-rotate="-10" data-scale="20">
+<p class="tittle">Parcerias <span class="salmon"><i class="fa fa-empire"></span></i></p>
+<p class="content-view"><i>"Centro de gravidade da solução".</i> Pela dimensão da região e por suas características peculiares, sem um trabalho cooperativo, conduzido a muitas mãos e de forma continuada, os objetivos 
+traçados não serão alcançados!.</p>
+</div>
+
+
+<div id="success" class="step" data-x="89000" data-y="145000" data-z="0" data-rotate="-90" data-rotate-y="80" data-scale="40">
+<p class="font font-x1">Parcerias Estratégicas</p>
+</div>
+<div id="success_map" class="step" data-x="78000" data-y="148000" data-z="0" data-rotate-x="0" data-rotate-y="170" data-rotate-z="-90" data-scale="30">
+<div class="map_bg">
+<div class="clients-logos img-circle atlanta">
+<img src="img/rnp-logo.png"/>
+<span>Rede Nacional de Ensino e Pesquisa</span>
+
+</div>
+<div class="clients-logos img-circle california">
+<img src="img/mec-logo.png"/>
+<span>Ministério da Educação</span>
+</div>
+<div class="clients-logos img-circle spain">
+<img src="img/mctic.png"/>
+<span>Ministério da Ciência, Tecnologia e Inovação e Comunicações</span>
+</div>
+<div class="clients-logos img-circle baires2">
+<img src="img/prodam-logo.png"/>
+<span>Processamento de Dados do Amazonas</span>
+</div>
+<div class="clients-logos img-circle tcm">
+<img src="img/seplancti-logo.png"/>
+<span>Governo do Estado do Amazonas</span>
+</div>
+
+<div class="clients-logos img-circle healthlines">
+<img src="img/tre.png"/>
+<span>Tribunal Regional Eleitoral</span>
+</div>
+
+<div class="clients-logos img-circle baires">
+<img src="img/ana-logo.png"/>
+<span>Agência Nacional de Águas</span>
+</div>
+<div class="clients-logos img-circle remoov">
+<img src="img/tja-logo.png"/>
+<span>Tribunal de Justiça do Amazonas</span>
+</div>
+<div class="clients-logos img-circle social-volt">
+<img src="img/mpa-logo.png"/>
+<span>Ministério Público do Amazonas</span>
+</div>
+
+<div class="clients-logos img-circle healthlines">
+<img src="img/ibama-logo.png"/>
+
+<span>Instituto Brasileiro do Meio Ambiente</span>
+</div>
+<div class="clients-logos img-circle healthlines">
+<img src="img/ipaam-logo.png"/>
+<span>Instituto de Proteção Ambiental do Amazonas</span>
+</div>
+</div>
+</div>
+
+<div id="backend" class="step animar" data-x="68000" data-y="80000" data-z="0" data-rotate="-30" data-scale="10">
+<p class="font tech-size">Novas Parcerias <span class="salmon"><i class="fa fa-sun-o" aria-hidden="true"></i>
+</span></p>
+<ul class="text-center ">
+<li class="clip img-circle big_one">
+<img src="img/prodepa-logo.png" class="compass"/>
+<span class="title_sub_tech">PRODEPA</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/eletrobras-logo.png" class="compass"/>
+<span class="title_sub_tech">ELETROBRAS</span>
+</li>
+<li class="clip img-circle">
+<img src="img/telebras-logo.png" class="compass"/>
+<span class="title_sub_tech">TELEBRAS</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/cjf-logo.png" class="compass"/>
+<span class="title_sub_tech">JUSTIÇA FEDERAL</span>
+</li>
+<li class="clip img-circle">
+<img src="img/icmbio-logo.png" class="compass"/>
+<span class="title_sub_tech">ICMBIO</span>
+</li>
+
+<li class="clip img-circle">
+<img src="img/suframa-logo.png" class="compass"/>
+<span class="title_sub_tech">SUFRAMA</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/anatel-logo.png" class="compass"/>
+<span class="title_sub_tech">ANATEL</span>
+</li>
+<li class="clip img-circle">
+<img src="img/uea-logo.png" class="compass"/>
+<span class="title_sub_tech">UNIVERSIDADE DO AMAZONAS</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/capes-logo.png" class="compass"/>
+<span class="title_sub_tech">CAPES</span>
+</li>
+<li class="clip img-circle">
+<img src="img/ufam-logo.png" class="compass"/>
+<span class="title_sub_tech">UNIVERSIDADE FEDERAL DO AMAZONAS</span>
+</li>
+
+<li class="clip img-circle">
+<img src="img/cnpq-logo.png" class="compass"/>
+<span class="title_sub_tech">CNPq</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/mpf-logo.png" class="compass"/>
+<span class="title_sub_tech">MINISTÉRIO PÚBLICO FEDERAL</span>
+</li>
+<li class="clip img-circle">
+<img src="img/dpu-logo.png" class="compass"/>
+<span class="title_sub_tech">DEFENSORIA PÚBLICA DA UNIÃO</span>
+</li>
+<li class="clip img-circle big_one">
+<img src="img/sipam-logo.png" class="compass"/>
+<span class="title_sub_tech">CENSIPAM</span>
+</li>
+<li class="clip img-circle">
+<img src="img/agu-logo.png" class="compass"/>
+<span class="title_sub_tech">ADVOCACIA GERAL DA UNIÃO</span>
+</li>
+</ul>
+</div>
+
+
+
+
+<div id="third" class="step" data-x="85000" data-y="41000" data-z="20000" data-rotate="10" data-scale="10">
+<p class="tittle">Inovação <span class="salmon"><i class="fa fa-modx" aria-hidden="true"></i></span></p>
+<p class="content-view">A inovação inclui a tecnologia e a governança. Não importar, sem submeter a análise detalhada, conceitos aplicados em outras regiões do país. Aprende-se a cada nova etapa e incorpora-se o aprendizado às ações futuras.</p>
+</div>
+<div id="fourth" class="step" data-x="95000" data-y="41000" data-z="70000" data-rotate="-10" data-scale="20">
+<p class="tittle">Aquisições <span class="salmon"><i class="icon-puzzle-piece"></i></span></p>
+<p class="content-view">Conjunto de ações implementadas com o objetivo de compatibilizar um orçamento muito limitado com soluções tecnológicas desenvolvidas e comercializadas no Brasil.</p>
+</div>
+<div id="purchase" class="step" data-x="95000" data-y="60000" data-z="70000" data-rotate="-10" data-scale="20">
+
+<p class="text-center">
+<ul class="fa-ul" style="margin-left:50px">
+<li><span class="salmon"><i class="fa-li fa fa-paper-plane" aria-hidden="true"></i></span><p class="font text-x2">Licitação internacional para aquisição dos cabos</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-paper-plane" aria-hidden="true"></i></span><p class="font text-x2">Licitação no Brasil para contratação do serviço de lançamento</p></li>
+<li><span class="salmon"><i class="fa-li fa fa-paper-plane" aria-hidden="true"></i></span><p class="font text-x2">Licitação no Brasil para aquisição dos ativos de DWDM </p></li>
+<li><span class="salmon"><i class="fa-li fa fa-paper-plane" aria-hidden="true"></i></span><p class="font text-x2">Licitação no Brasil para aquisição de contêineres, customizados para a região</p></li>
+</ul>
+</div>
+
+
+<div id="tech" class="step" data-x="-10000" data-y="-380000" data-z="0" data-rotate="0" data-scale="300">
+<p class="font font-x2" style="margin-left:-200px"><span class="salmon">{</span><span class="salmon"><i class="fa fa-cog fa-spin margin-bottom"></i></span><span class="salmon">}</span>&nbsp;<span class="font title">Tecnologias</span></p>
+</div>
+<div id="tech_content" class="step ruby" data-x="-58000" data-y="79500" data-z="0" data-rotate="0" data-scale="20">
+<p class="text-center"><img src="img/urc-1.png" class="standGem"/></p>
+<p class="content-view">A tecnologia de cabos ópticos subfluviais está sendo empregada na construção do <i>backbone</i>.</p>
+</div>
+<div id="frontend" class="step animar" data-x="19000" data-y="83000" data-z="0" data-rotate="30" data-scale="15">
+<p class="font tech-size">Família de cabos ópticos <span class="salmon"><i class="icon-desktop"></i></span></p>
+
+
+<img src="img/cable-cta_dl.png" width="450" height="150"> <img src="img/nexans-northearn.png" width="300" height="200">
+    <img src="img/cable-coari_tefe.png" width="450" height="150"> <img src="img/baixo_custo_1.png" width="300" height="270">
+
+</div>
+
+
+<div id="services" class="step" data-x="-10000" data-y="140000" data-z="0" data-rotate="0" data-scale="400">
+<p class="font font-x2" style="margin-left:-200px"><span class="salmon">{</span><span class="salmon"><i class="fa fa-cog fa-spin margin-bottom"></i></span><span class="salmon">}</span>&nbsp;<span class="font title">Serviços de Tecnologia da Informação</span></p>
+</div>
+<div id="services_one" class="step" data-x="-160000" data-y="141000" data-z="0" data-rotate="-90" data-scale="40">
+<p class="text-center scaleZero"><img src="img/technology.png" title="citex: governança de TI"></p>
+<p class="font text-center font-x1 scaleZero">Governança de TI</p>
+</div>
+<div id="services_tags" class="step" data-x="-160000" data-y="141000" data-z="2000" data-rotate-x="-90" data-rotate-y="90" data-rotate-z="0" data-scale="12">
+<p class="text-center upLine"><span class="salmon"><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i></span></p>
+<p class="text-center font scaleZero">
+Gestão integrada<br/>
+Provimento e manutenção de infraestrutura<br/>
+Serviços e recursos opcionais<br/>
+Homologação de produtos (Anatel)<br/>
+Cadastro das redes (Anatel)<p/>
+<p class="text-center downLine"><span class="salmon"><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i><i class="icon-minus"></i></span></p>
+</div>
+
+
+
+
+<div id="pilot" class="step" data-x="-10000" data-y="-150000" data-z="0" data-rotate="0" data-scale="200" data-rotate-x="180">
+<p class="font font-x2" style="margin-left:-200px"><span class="salmon">{</span><span class="salmon"><i class="fa fa-cog fa-spin margin-bottom"></i></span>
+<span class="salmon">}</span>&nbsp;
+<span class="font title"> <span class="flip">Projeto Piloto Coari-Tefé</span></span></p>
+</div>
+
+<div class="step" id="teste-1" data-x="-5000" data-y="-4230" data-z="-5000" data-rotate-z="30">
+<h1 class="font text-center" style="margin-top:-10px">Equipes de trabalho (Survey mais segurança)</h1>
+
+    <img src="img/segura_aquamar.jpg" width="800" height="500">
+</div>
+
+<div class="step" id="teste-2" data-x="-4268" data-y="-3500" data-z="-5000" data-rotate-z="60">
+<h1 class="font text-center" style="margin-top:-10px"> Transporte do cabo, adquirido na Noruega </h1>
+
+    <img src="img/LAYLA5.jpg" width="900" height="500">
+</div>
+
+<div class="step" id="teste-3" data-x="-4000" data-y="-2500" data-z="-5000" data-rotate-z="90">
+<h1 class="font text-center" style="margin-top:-10px">Super Terminais de Manaus</h1>
+
+    <img src="img/geral.jpg" width="900" height="500">
+</div>
+
+
+<div class="step" id="teste-4" data-x="-4268" data-y="-1500" data-z="-5000" data-rotate-z="120">
+<h1 class="font text-center" style="margin-top:-10px">Estruturas para a transferência</h1>
+
+    <img src="img/preparacao_3.jpg" width="900" height="500">
+</div>
+
+<div class="step" id="teste-5" data-x="-5000" data-y="-770" data-z="-5000" data-rotate-z="150">
+<h1 class="font text-center" style="margin-top:-10px">Carga (vista lateral)</h1>
+
+    <img src="img/carretel.jpg" width="900" height="500">
+</div>
+
+<div class="step" id="teste-6" data-x="-6000" data-y="-500" data-z="-5000" data-rotate-z="180">
+<h1 class="font text-center" style="margin-top:-10px">Transferência da carga</h1>
+
+    <img src="img/balsa_2.jpg" width="800" height="500">
+</div>
+
+
+<div class="step" id="teste-7" data-x="-7000" data-y="-770" data-z="-5000" data-rotate-z="210">
+<h1 class="font text-center" style="margin-top:-10px">Centro de Embarcações da Amazônia</h1>
+
+    <img src="img/mobilizacao_1.jpg" width="900" height="500">
+</div>
+
+
+<div class="step" id="teste-8" data-x="-7732" data-y="-1500" data-z="-5000" data-rotate-z="240">
+<h1 class="font text-center" style="margin-top:-10px">Contêineres (carga complementar)</h1>
+
+    <img src="img/container.jpg" width="800" height="500">
+</div>
+
+<div class="step" id="teste-9" data-x="-8000" data-y="-2500" data-z="-5000" data-rotate-z="270">
+<h1 class="font text-center" style="margin-top:-10px">Evacuação médica (treinamento)</h1>
+
+    <img src="img/balsa_3.png" width="900" height="500">
+</div>
+
+<div class="step" id="teste-10" data-x="-7732" data-y="-3500" data-z="-5000" data-rotate-z="300">
+<h1 class="font text-center" style="margin-top:-10px">Saída da balsa em Manaus</h1>
+
+    <img src="img/balsa-out.jpg" width="900" height="500">
+</div>
+
+
+<div class="step" id="teste-11" data-x="-7000" data-y="-4230" data-z="-5000" data-rotate-z="330">
+<h1 class="font text-center" style="margin-top:-10px">Chegada da balsa em Tefé</h1>
+
+    <img src="img/chegada_tefe_6.jpg" width="900" height="500">
+</div>
+
+<section class="step container" data-x="0" data-y="0">
+        <video width="1024" height="768" controls style="margin-top:-10px;margin-left:-10px">
+            <source id="video-piloto" src="img/aquama.mp4" type='video/mp4'/>
+        </video>
+    </section>
+
+
+<div id="slogan-finish" class="step finish" data-x="82000" data-y="145000" data-z="" data-rotate="1000" data-scale="1">
+<p class="font logo" style="margin-left:-100px"><span class="salmon">{</span>Integração<span class="salmon">D</span>igital<span class="salmon">}</span></p>
+<div class="drop_box">
+<span class="font font-x0 slogan_finish img-routed">Tecnologia &<span class="dark">.</span>Cidadania</span>
+<span id="drop_down" class="font font-x0 slogan_finish img-routed">Amazônia<span class="dark">.</span>Conectada</span>
+</div>
+</div>
+</div>
+<div class="hint">
+<p class="mouse">Use setas ou barra de espaço para navegar</p>
+</div>
+<div class="menu">
+<ul>
+<li><a href="#slogan" class="font">Home <i class="icon-home"></i></a></li>
+<li><a href="#what" class="font">Programa <i class="fa fa-eye-slash" aria-hidden="true"></i></a></li>
+<li><a href="#how" class="font">Demonstrador <i class="fa fa-leaf" aria-hidden="true"></i></a></li>
+<li><a href="#tech" class="font">Tecnologias <i class="icon-cogs"></i></a></li>
+<li><a href="#services" class="font">Serviços de TI <i class="icon-beaker"></i></a></li>
+<li><a href="#pilot" class="font">Projeto piloto <i class="icon-star"></i></a></li>
+</ul>
+</div>
+<!--button id="next"><span class="next"><i class="icon-double-angle-right"></i></span></button-->
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/impress.js"></script>
+<script src="js/script.js"></script>
+
+</body>
+</html>
